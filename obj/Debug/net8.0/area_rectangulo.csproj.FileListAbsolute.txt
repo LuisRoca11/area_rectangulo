@@ -1,0 +1,14 @@
+/home/luis/Documentos/CSharp/area_rectangulo/bin/Debug/net8.0/area_rectangulo
+/home/luis/Documentos/CSharp/area_rectangulo/bin/Debug/net8.0/area_rectangulo.deps.json
+/home/luis/Documentos/CSharp/area_rectangulo/bin/Debug/net8.0/area_rectangulo.runtimeconfig.json
+/home/luis/Documentos/CSharp/area_rectangulo/bin/Debug/net8.0/area_rectangulo.dll
+/home/luis/Documentos/CSharp/area_rectangulo/bin/Debug/net8.0/area_rectangulo.pdb
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/area_rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/area_rectangulo.AssemblyInfoInputs.cache
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/area_rectangulo.AssemblyInfo.cs
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/area_rectangulo.csproj.CoreCompileInputs.cache
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/area_rectangulo.dll
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/refint/area_rectangulo.dll
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/area_rectangulo.pdb
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/area_rectangulo.genruntimeconfig.cache
+/home/luis/Documentos/CSharp/area_rectangulo/obj/Debug/net8.0/ref/area_rectangulo.dll
